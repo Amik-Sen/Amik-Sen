@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Amik, an undergraduate student of IIT Kharagpur 
+* 🔭 I’m currently working on: my own website and app
+* 🌱 I’m currently learning: a lot of different things in Web Dev, Deep Learning and React 
+* 🤔 I’m looking for help with Open Source Coding
+* 📫 How to reach me: amiksen@gmail.com
+* ⚡ Fun fact: I love animes and TV series (Feel free to suggest).
+* 😄 Pronouns : He/Him
+
 <!--
 **Amik-Sen/Amik-Sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
