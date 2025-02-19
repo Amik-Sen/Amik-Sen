@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Amik, an undergraduate student of IIT Kharagpur 
-* 🔭 I’m currently working on: my own website and app
-* 🌱 I’m currently learning: a lot of different things in Web Dev, Deep Learning and React 
+I am Amik, a software Developer, IIT Kharagpur, 23 Graduate 
+* 🔭 I’m currently working as a Palantir developer
+* 🌱 I’m currently learning: a lot of different things in Spring Boot, DSA and System Designs
 * 🤔 I’m looking for help with Open Source Coding
 * 📫 How to reach me: amiksen@gmail.com
 * ⚡ Fun fact: I love animes and TV series (Feel free to suggest).
